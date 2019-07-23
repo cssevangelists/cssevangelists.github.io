@@ -6455,6 +6455,11 @@ nth-check@^1.0.2, nth-check@~1.0.1:
   dependencies:
     boolbase "~1.0.0"
 
+nucleojs@^0.7.5:
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/nucleojs/-/nucleojs-0.7.5.tgz#aa2e9311f210fbea7879a8ef65411d4af475fd86"
+  integrity sha512-JuRbMdCbvYXLEpqx0xNOWVxc6nykjDYWoPBNBtleFfdJ/7NHfU9Gja20UdarywTrxYkYj0MOZXo6zZRSE1zIjA==
+
 null-loader@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/null-loader/-/null-loader-0.1.1.tgz#17be9abfcd3ff0e1512f6fc4afcb1f5039378fae"
